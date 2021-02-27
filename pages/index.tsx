@@ -9,7 +9,7 @@ import { GetStaticProps } from 'next'
 export default function Home({
   allPostsData
 }: {
-  allPostData: {
+  allPostsData: {
     date: string
     title: string
     id: string
